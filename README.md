@@ -84,9 +84,9 @@ The exploratory analysis uses visualizations to identify patterns before fitting
 - Regional and sex-based differences are visible, but they are weaker than the smoker effect.
 - The scatterplots suggest mostly linear relationships, which supports starting with linear regression before testing polynomial models.
 
-![Insurance Costs Analysis preview 1](readme_assets/lab5_insurance_costs_preview_1.png)
+![Insurance Costs Analysis preview 1](lab5_insurance_costs_preview_1.png)
 
-![Insurance Costs Analysis preview 2](readme_assets/lab5_insurance_costs_preview_2.png)
+![Insurance Costs Analysis preview 2](lab5_insurance_costs_preview_2.png)
 
 ---
 
@@ -149,8 +149,6 @@ Based on MSE, I would choose the degree 2 polynomial model because it produced t
 
 The analysis shows that insurance charges are not explained well by age alone. BMI adds some predictive value, but smoker status is the largest driver of model improvement. Interaction terms also help because the relationship between age, BMI, and charges changes depending on smoker status.
 
-The final results support a workflow where I start with interpretable linear models, then test additional flexibility only when it improves performance on new data.
-
 ---
 
 ## Technologies Used
@@ -171,7 +169,7 @@ compare/
 |-- insurance_cost_analysis.ipynb
 |-- lab5_insurance_costs.html
 |-- lab5_insurance_costs_README.md
-|-- insurance_costs_1 (1).csv
+|-- insurance_costs_1.csv
 |-- insurance_costs_2.csv
 |-- readme_assets/
     |-- lab5_insurance_costs_preview_1.png
@@ -183,7 +181,7 @@ compare/
 ## How to Run
 
 1. Open `insurance_cost_analysis.ipynb` in Jupyter Notebook.
-2. Make sure `insurance_costs_1 (1).csv` and `insurance_costs_2.csv` are in the same folder as the notebook.
+2. Make sure `insurance_costs_1.csv` and `insurance_costs_2.csv` are in the same folder as the notebook.
 3. Run the notebook cells in order.
 
 ---
