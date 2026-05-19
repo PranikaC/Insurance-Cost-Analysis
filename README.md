@@ -39,6 +39,6 @@ insurance_costs_2.csv in repository
 
 ## Visual Preview
 
-![Insurance Costs Analysis preview 1](readme_assets/lab5_insurance_costs_preview_1.png)
+![Insurance Costs Analysis preview 1](lab5_insurance_costs_preview_1.png)
 
-![Insurance Costs Analysis preview 2](readme_assets/lab5_insurance_costs_preview_2.png)
+![Insurance Costs Analysis preview 2](lab5_insurance_costs_preview_2.png)
