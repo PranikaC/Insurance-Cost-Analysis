@@ -11,6 +11,7 @@ A regression workflow for understanding insurance charges and comparing linear m
 ## Data Source
 
 insurance_costs_1.csv from https://www.dropbox.com/s/bocjjyo1ehr5auz/insurance_costs_1.csv?dl=1
+insurance_costs_2.csv in repository
 
 ## Data Science Workflow
 
