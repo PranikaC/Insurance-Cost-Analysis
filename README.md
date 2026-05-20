@@ -84,9 +84,9 @@ The exploratory analysis uses visualizations to identify patterns before fitting
 - Regional and sex-based differences are visible, but they are weaker than the smoker effect.
 - The scatterplots suggest mostly linear relationships, which supports starting with linear regression before testing polynomial models.
 
-![Insurance Costs Analysis preview 1](lab5_insurance_costs_preview_1.png)
+![Insurance Costs Analysis preview 1](readme_assets/lab5_insurance_costs_preview_1.png)
 
-![Insurance Costs Analysis preview 2](lab5_insurance_costs_preview_2.png)
+![Insurance Costs Analysis preview 2](readme_assets/lab5_insurance_costs_preview_2.png)
 
 ---
 
@@ -167,8 +167,8 @@ The analysis shows that insurance charges are not explained well by age alone. B
 ```text
 compare/
 |-- insurance_cost_analysis.ipynb
-|-- lab5_insurance_costs.html
-|-- lab5_insurance_costs_README.md
+|-- insurance_costs_analysis.html
+|-- README.md
 |-- insurance_costs_1.csv
 |-- insurance_costs_2.csv
 |-- readme_assets/
